@@ -1,0 +1,8 @@
+# This file is used to override language statistics
+# Text file normalization
+src/**/*.astro linguist-detectable
+*.min.css linguist-generated
+*.html linguist-vendored
+*.min.js linguist-generated
+*.yaml linguist-detectable=false
+* text=auto eol=lf
