@@ -1,0 +1,8 @@
+.env
+node_modules/
+.pnpm-store/
+.env.local
+.next/
+*.tgz
+npm-debug.log*
+*.log
